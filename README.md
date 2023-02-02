@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ## General Stats
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=mrmoi&layout=compact&theme=great-gatsby&langs_count=64&custom_title=Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=Mrmoi&layout=compact&theme=great-gatsby&langs_count=64&custom_title=Stats)
