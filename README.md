@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ## Github Stats
 ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrmoi31&theme=great-gatsby&show_icons=true" alt="Mrmoi31's GitHub Stats" />
+![Mrmoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmoi&show_icons=true&theme=radical)
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrmoi31&theme=great-gatsby&langs_count=64" alt="Mrmoi31's GitHub most used languages"/>
 
 ## General Stats
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmoi&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
