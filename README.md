@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ## General Stats
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoi)](https://github.com/mrmoi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoi31)](https://github.com/mrmoi31/github-readme-stats)
