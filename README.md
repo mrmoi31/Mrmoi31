@@ -5,8 +5,6 @@
 * ✉️  You can contact me at [dorian.levasseur31@gmail.com](mailto:dorian.levasseur31@gmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrmoi31)]
-
 ## My skills
 ---
 
