@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ---
 
 ![Mrmoi31's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrmoi&show_icons=true&theme=radical)
-  <br>
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoi31&layout=compact&theme=radical)](https://github.com/mrmoi31/github-readme-stats)
