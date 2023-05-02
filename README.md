@@ -5,6 +5,8 @@
 * ✉️  You can contact me at [dorian.levasseur31@gmail.com](mailto:dorian.levasseur31@gmail.com)
 * 🚀  I'm currently student of [Bachelor in Computer Science specialized in data](https://www.univ-tlse3.fr/but-specialite-informatique)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 ## My skills
 ---
 
