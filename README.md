@@ -12,7 +12,7 @@
 
 ## My Portfolio
 ---
-Here some works I have done :[Personnal projects](https://mrmoi31.github.io/) 
+Here some works I have done : [Personnal projects](https://mrmoi31.github.io/) 
 and in a team : [Team projects](https://captainboulbi.github.io/)
 
 ## Github Stats
