@@ -8,7 +8,7 @@
 ## My skills
 ---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,java,js,cpp,c,php)
+![My Skills](https://skillicons.dev/icons?i=html,css,java,js,cpp,c,php,git,py)
 
 ## My Portfolio
 ---
