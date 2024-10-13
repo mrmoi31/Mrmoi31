@@ -8,12 +8,11 @@
 ## My skills
 ---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,java,js,cpp,c,php,git,py)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,c,php,git,py,java)
 
 ## My Portfolio
 ---
-Here some works I have done : [Personnal projects](https://mrmoi31.github.io/) 
-and in a team : [Team projects](https://captainboulbi.github.io/)
+Here some works I have done [here](https://mrmoi31.github.io/) 
 
 ## Github Stats
 ---
