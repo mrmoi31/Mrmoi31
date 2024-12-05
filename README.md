@@ -15,7 +15,7 @@ Here some works I have done [here](https://mrmoi31.github.io/)
 
 ## Github Stats
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoi31&layout=compact&theme=radical)](https://github.com/mrmoi31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmoi31&layout=compact&theme=great-gatsby)](https://github.com/mrmoi31/github-readme-stats)
 
 ## Some cool websites
 ---
